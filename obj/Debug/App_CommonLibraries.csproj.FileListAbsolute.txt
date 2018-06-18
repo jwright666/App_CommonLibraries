@@ -1,0 +1,4 @@
+D:\Gerry\CSharp\SystemFramework\DXApp_CompiledCode\App_CommonLibraries.dll
+D:\Gerry\CSharp\SystemFramework\DXApp_CompiledCode\App_CommonLibraries.pdb
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\obj\Debug\App_CommonLibraries.dll
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\obj\Debug\App_CommonLibraries.pdb

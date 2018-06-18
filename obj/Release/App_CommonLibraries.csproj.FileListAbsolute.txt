@@ -1,0 +1,5 @@
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\bin\Release\App_CommonLibraries.dll
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\bin\Release\App_CommonLibraries.pdb
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\obj\Release\App_CommonLibraries.csproj.CoreCompileInputs.cache
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\obj\Release\App_CommonLibraries.dll
+D:\Gerry\CSharp\SystemFramework\App_CommonLibraries\obj\Release\App_CommonLibraries.pdb
